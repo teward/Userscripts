@@ -21,7 +21,7 @@
 // @exclude     *://chat.meta.stackexchange.com/*
 // @exclude     *://chat.stackoverflow.com/*
 // @exclude     *://blog.stackoverflow.com/*
-// @exclude     *://area51.stackoverflow.com/*
+// @exclude     *://*.area51.stackoverflow.com/*
 // @require     https://cdn.rawgit.com/ofirdagan/cross-domain-local-storage/d779a81a6383475a1bf88595a98b10a8bd5bb4ae/dist/scripts/xdLocalStorage.min.js
 // @grant       none
 // ==/UserScript==
